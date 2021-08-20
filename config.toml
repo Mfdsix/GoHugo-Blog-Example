@@ -1,0 +1,17 @@
+baseurl = "/"
+title = "GoHugo"
+theme = "ghostwriter"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "GoHugo Posts"
+    description = "gohugo example posts"
+    github = "https://github.com/mfdsix"
+    email = "mfdsix.1nd0@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
