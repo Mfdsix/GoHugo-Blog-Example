@@ -64,4 +64,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [ISC](https://opensource.org/licenses/ISC) licensed.
+This project is [Apache](https://www.apache.org/licenses/LICENSE-2.0) licensed.
